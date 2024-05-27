@@ -1,2 +1,2 @@
-# BoilerPlate-c-
+# BoilerPlate-cpp
 My boilerplate
